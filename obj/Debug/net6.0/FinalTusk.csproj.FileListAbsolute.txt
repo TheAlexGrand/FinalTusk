@@ -1,0 +1,15 @@
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.csproj.AssemblyReference.cache
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.AssemblyInfoInputs.cache
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.AssemblyInfo.cs
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.csproj.CoreCompileInputs.cache
+C:\Users\79110\Desktop\ИЗ\FinalTusk\bin\Debug\net6.0\FinalTusk.exe
+C:\Users\79110\Desktop\ИЗ\FinalTusk\bin\Debug\net6.0\FinalTusk.deps.json
+C:\Users\79110\Desktop\ИЗ\FinalTusk\bin\Debug\net6.0\FinalTusk.runtimeconfig.json
+C:\Users\79110\Desktop\ИЗ\FinalTusk\bin\Debug\net6.0\FinalTusk.dll
+C:\Users\79110\Desktop\ИЗ\FinalTusk\bin\Debug\net6.0\FinalTusk.pdb
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.dll
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\refint\FinalTusk.dll
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.pdb
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\FinalTusk.genruntimeconfig.cache
+C:\Users\79110\Desktop\ИЗ\FinalTusk\obj\Debug\net6.0\ref\FinalTusk.dll
