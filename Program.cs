@@ -17,4 +17,17 @@ for (int i = 0; i < size; i++)
     arrayStrings[i] = symbol;
 }
 
+string[] arrayFinal = new string[size];
+int length = 3;
+int count = 0;
+
+for (int i = 0; i < size; i++)
+{
+    if (arrayStrings[i].Length <= length)
+    {
+        arrayFinal[count] = arrayStrings[i];
+        count++;
+    }
+}
+
 Console.WriteLine ($"[{string.Join(";", arrayStrings)}] -> [{string.Join(";", arrayFinal)}]");
